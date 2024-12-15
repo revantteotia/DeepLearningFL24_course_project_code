@@ -1,0 +1,12 @@
+accelerate==0.27.2
+einops==0.8.0
+evaluate==0.4.1
+h5py==3.11.0
+matplotlib==3.8.3
+numpy==2.2.0
+Pillow==11.0.0
+safetensors==0.4.5
+scipy==1.14.1
+torch==2.2.1
+torchvision==0.17.1
+tqdm==4.66.2
